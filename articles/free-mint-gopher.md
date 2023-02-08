@@ -2,7 +2,7 @@
 title: "Gopher くん NFT ガチャガチャサイト作ってみた"
 type: "tech"
 topics: ["個人開発","ポエム","nextjs","solidity","vercel"]
-emoji: "💡"
+emoji: "💊"
 published: true
 ---
 
@@ -17,7 +17,7 @@ published: true
 <https://free-mint-gopher-front-git-main-tkyatg.vercel.app/>
 ![image](/images/articles/tech/free-mint-gopher/init.png)
 
-誰でも Mint できて、ランダムな Gopher くん NFT が出現します。
+誰でも Mint できて、4種のランダムな Gopher くん NFT が出現します。
 ちなみにサイトで使っている Gopher くんは、すべて私が作りました（10分くらいで）
 
 ※オリジナルの The Go gopher（Gopher くん）は、Renée French によってデザインされました。
