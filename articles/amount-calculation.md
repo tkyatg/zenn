@@ -4,7 +4,7 @@ type: "tech"
 topics: ["go"]
 published: true
 emoji: "🐱"
-published_at: 2023/01/25 09:00:00
+published_at: 2023-01-25 09:00
 ---
 
 どうも、レベチの Gopher を目指している厚木です。
