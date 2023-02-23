@@ -59,7 +59,7 @@ Float(浮動小数点数) では、表現できる値の範囲が決まってお
 ※丸め誤差
 
 誤差に関しては、以下の記事が参考になります。
-![Better C - Goと小数](https://qiita.com/sonatard/items/eac6fb35dcc8e052a293#%E8%AA%A4%E5%B7%AE)
+[Better C - Goと小数](https://qiita.com/sonatard/items/eac6fb35dcc8e052a293#%E8%AA%A4%E5%B7%AE)
 
 サンプルコードの場合、`taxExcludedPrice` は`110.000001...`のようになります。
 切り上げると `111` となり、消費税は `10` となってしまうわけです。
@@ -73,7 +73,7 @@ Float(浮動小数点数) では、表現できる値の範囲が決まってお
 いくつか方法があるのですが、今回は `math/big.Rat` を使ってズレがないように計算します。
 `math/big.Rat` は有理数を扱うためのパッケージです。
 
-![math/big](https://pkg.go.dev/math/big)
+[math/big](https://pkg.go.dev/math/big)
 
 ```go
 package main
