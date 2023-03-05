@@ -3,7 +3,7 @@ title: "Gopher くん NFT ガチャガチャサイト作ってみた"
 type: "tech"
 topics: ["個人開発","ポエム","nextjs","solidity","vercel"]
 emoji: "💊"
-published: false
+published: true
 ---
 
 こんにちは、暇があれば個人開発している厚木です。

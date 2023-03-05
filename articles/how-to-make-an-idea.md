@@ -3,7 +3,7 @@ title: "個人開発者の「アイディアの作り方」"
 type: "idea"
 topics: ["個人開発","ポエム","メモ","プログラミング","web"]
 emoji: "💡"
-published: false
+published: true
 ---
 
 こんにちは、毎日せこせこ個人開発している厚木です。
